@@ -1,5 +1,5 @@
 # MVPTemplate
-Android Studio Template for MVP Moxy
+Android Studio Template for [MVP Moxy](https://github.com/Arello-Mobile/Moxy)
 
 Add this folders to:<br>
 {ANDROID_STUDIO_LOCATION}/plugins/android/lib/templates/other/
